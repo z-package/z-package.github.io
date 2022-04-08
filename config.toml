@@ -1,4 +1,4 @@
-baseURL = "https://z-package.github.io/"
+baseURL = "https://package.zshell.dev/"
 languageCode = "en"
 title = "❮ ZI ❯"
 theme = "github-style"
